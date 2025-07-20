@@ -10,9 +10,3 @@ Repositório com anotações, exemplos e exercícios práticos enquanto aprendo 
 - Genéricos
 - Type vs Interface
 - Classes e objetos
-
-## Como rodar
-
-```bash
-npx ts-node src/index.ts
-```
